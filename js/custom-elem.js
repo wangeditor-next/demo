@@ -105,15 +105,15 @@
       rightContainer.className = 'right-container'
       if (LANG === 'en') {
         rightContainer.innerHTML = `
-        <a href="https://www.wangeditor.com/en/">Document</a>
+        <a href="https://cycleccc.github.io/docs/en/">Document</a>
         &nbsp;
-        <a href="https://github.com/wangeditor-team/wangEditor/tree/master/packages/editor/demo">Source</a>
+        <a href="https://github.com/cycleccc/wangEditor/tree/master/packages/editor/demo">Source</a>
       `
       } else {
         rightContainer.innerHTML = `
-        <a href="https://www.wangeditor.com/">文档</a>
+        <a href="https://cycleccc.github.io/docs/">文档</a>
         &nbsp;
-        <a href="https://github.com/wangeditor-team/wangEditor/tree/master/packages/editor/demo">源码</a>
+        <a href="https://github.com/cycleccc/wangEditor/tree/master/packages/editor/demo">源码</a>
       `
       }
 
@@ -161,21 +161,21 @@ const MENU_CONF = [
   {
     'zh-CN': {
       text: '上传图片',
-      link: 'https://github.com/wangeditor-team/server',
+      link: 'https://github.com/cycleccc/server',
     },
     en: {
       text: 'Upload Image',
-      link: 'https://github.com/wangeditor-team/server',
+      link: 'https://github.com/cycleccc/server',
     },
   },
   {
     'zh-CN': {
       text: '上传视频',
-      link: 'https://github.com/wangeditor-team/server',
+      link: 'https://github.com/cycleccc/server',
     },
     en: {
       text: 'Upload Video',
-      link: 'https://github.com/wangeditor-team/server',
+      link: 'https://github.com/cycleccc/server',
     },
   },
   {
@@ -201,11 +201,11 @@ const MENU_CONF = [
   {
     'zh-CN': {
       text: 'Shadow DOM',
-      link: 'https://github.com/wangeditor-team/wangEditor/blob/master/packages/editor/examples/shadow-dom.html',
+      link: 'https://github.com/cycleccc/wangEditor/blob/master/packages/editor/examples/shadow-dom.html',
     },
     en: {
       text: 'Shadow DOM',
-      link: 'https://github.com/wangeditor-team/wangEditor/blob/master/packages/editor/examples/shadow-dom.html',
+      link: 'https://github.com/cycleccc/wangEditor/blob/master/packages/editor/examples/shadow-dom.html',
     },
   },
   {
