@@ -111,7 +111,7 @@
       `
       } else {
         rightContainer.innerHTML = `
-        <a href="https://www.wangeditor.com/">文档</a>
+        <a href="https://wangeditor-next.github.io/docs/">文档</a>
         &nbsp;
         <a href="https://github.com/wangeditor-next/wangeditor-next/tree/master/packages/editor/demo">源码</a>
       `
